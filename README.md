@@ -2,8 +2,6 @@
 
 Terraform module which creates Auto Scaling resources on AWS.
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
 ## Available Features
 
 - Autoscaling group with launch template - either created by the module or utilizing an existing launch template
